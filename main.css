@@ -37,7 +37,7 @@ html, body{
         font-weight: normal;
         font-size: 17px;
     }
-    button #btn{
+    #btn{
         outline: none;
         border: 1px solid;
         width: fit-content;
