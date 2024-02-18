@@ -14,7 +14,7 @@ In this project, you'll find a straightforward implementation of a "Read More/Re
 
 ## Demo
 
-[Click here to watch the demo]()
+[Click here to watch the demo](https://saqibbedar.github.io/ExpandCollapseText/)
 
 ## Getting Started
 
