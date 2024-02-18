@@ -37,7 +37,8 @@ html, body{
         font-weight: normal;
         font-size: 17px;
     }
-    button#btn{
+}
+button#btn{
         outline: none;
         border: 1px solid;
         width: fit-content;
@@ -47,7 +48,6 @@ html, body{
         border-radius: 8px;
         cursor: pointer;
         font-size: 18px;
-    }
 }
 .active{
     -webkit-line-clamp: 2;
